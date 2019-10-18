@@ -1,0 +1,33 @@
+body{
+  margin: 0;
+  font-size: 16px;
+  background: url("../images/背景.jpg") no-repeat ;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+input{
+  padding: 0;
+  border: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.auto-img{
+  width: 100%;
+  display: block;
+}
+
+.fl{
+  float: left;
+}
+
+.fr{
+  float: right;
+}
+
+.clearfix{
+  overflow: hidden;
+}

@@ -1,0 +1,131 @@
+
+.jd-icon{
+    width: .2rem;
+    position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0.05rem;
+
+   }
+.nav{
+    height: 30px;
+    width: 1.8rem;
+    position: relative;
+    
+    margin-left: 1.95rem;
+    background-color:rgba(255, 255, 255, 0.2);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius:8px;
+    margin-bottom: 40px;
+    
+}
+.history{
+  width: 1rem;
+  position: absolute;
+  
+  top: 30px;
+  right: 40px;
+  background-color:rgba(0, 0, 0, 0.2) 
+}
+.history>ul>li{
+  margin: 0.05rem;
+  color: aliceblue;
+}
+.nav-login{
+    display: inline-block;
+    line-height: 0.3rem;
+    margin-right: 0.05rem;
+    margin-left: 0.05rem;
+}
+.search-input{
+    width: 1rem;
+    height: 30px;
+       
+}
+.temperature{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.temperature>span{
+  font-size: 0.3rem;
+  color: aliceblue;
+}
+.city{
+    margin-bottom: 20px;
+}
+.city>span{
+    font-size: 0.2rem;
+  color: aliceblue;
+}
+.img{
+    width: 0.35rem;
+    display: inline-block;
+    margin-right: 0.05rem;
+    margin-bottom: 0;
+}
+.characters>span{
+    font-size: 0.25rem;
+  color: aliceblue;
+}
+.date{
+    text-align: center;
+    margin-bottom: 50px;
+    color: aliceblue;
+}
+.hour{
+    width: clac(100% - 20px);
+    margin: 0 auto;
+    height: 157px;
+    overflow: hidden;
+}
+.second-kill-b{
+    overflow-x: auto;
+    
+  }
+  
+  .second-kill-b>ul{
+    width:15.7rem;
+  }
+  
+  .second-kill-b>ul>li{
+    width: .5rem;
+    float: left;
+    text-align: center;
+    margin-right: 0.15rem
+  }
+.p{
+    color: #e4393c;
+  }
+.day{
+   text-align: center;
+  } 
+.day>span{
+  font-size: 18px;
+  color: aliceblue;
+} 
+.futureday>.second-kill-b>ul{
+  width: 11.2rem;
+  }
+ .futureday>.second-kill-b>ul>li{
+    width: .5rem;
+    float: left;
+    text-align: center;
+    margin-right: 0.3rem;
+    margin-left: 0.4rem;
+    overflow-y: auto;
+}
+.futureday{
+  height: 157px;
+  overflow: hidden;
+  
+}
+.aa{
+  color: lightgreen;
+}
+/* .max{
+  color: #d3473d;
+  font-size: 0.3rem;
+} */
+.p{
+  color: rgba(255, 255, 255, 0.9)
+}
